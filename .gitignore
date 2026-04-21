@@ -1,0 +1,5 @@
+.prettierrc
+
+# Added by cargo
+
+/target
