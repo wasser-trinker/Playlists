@@ -1,15 +1,24 @@
 a {
-    color:#07aa6d;
-    font-size: 120%
+    color: #07aa6d;
+    font-size: 120%;
 }
 h2 {
     font-size: 200%;
-    color:#07aa6d;
+    color: #07aa6d;
     padding: 10px;
 }
 h1 {
-    font-size: 300%
+    font-size: 300%;
+    color: #07aa6d;
 }
 img {
     float: right;
 }
+
+/* .red-text {
+    color: red;
+}
+
+#main {
+    color: blue;
+} */
